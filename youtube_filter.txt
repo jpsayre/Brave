@@ -1,4 +1,4 @@
 
-www.youtube.com##.ytp-endscreen-content
+youtube.com##.ytp-endscreen-content
 
-www.youtube.com###secondary
+youtube.com###secondary
