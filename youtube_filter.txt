@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 
 youtube.com##.ytp-endscreen-content
 
