@@ -2,4 +2,4 @@
 
 youtube.com##.ytp-endscreen-content
 
-youtube.com###secondary
+youtube.com##div#columns > div#secondary
